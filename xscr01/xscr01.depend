@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697157398 source:n:\c++revisao\xscr01\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+

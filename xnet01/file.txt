@@ -1,0 +1,7 @@
+U,Virat Kohli,23,95.6
+U,Serena Williams,22,83.2
+G,Wayne Gretzky,19,84.2
+U,Barbosa Degmar,78,98.5
+U,Barbosa Wallace,35,97.0
+U,Barbosa Krcio,37,96.0
+U,Barbosa Lawrence,40,98.0

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697468980 source:n:\c++revisao\xweb05\main.cpp
+	<iostream>
+	<fstream>
+

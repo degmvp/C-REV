@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697670847 source:n:\c++revisao\xweb09\main.cpp
+	<iostream>
+	<vector>
+

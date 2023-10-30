@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698540633 source:n:\c++revisao\xweb15\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+

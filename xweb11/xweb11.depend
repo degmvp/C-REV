@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697713053 source:n:\c++revisao\xweb11\main.cpp
+	<iostream>
+	<map>
+

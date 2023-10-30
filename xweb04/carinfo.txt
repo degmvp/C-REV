@@ -1,0 +1,4 @@
+Marca e modelo: gol
+Ano: 38000
+Preco normal: R$0.00
+Preco promocional: R$0.00

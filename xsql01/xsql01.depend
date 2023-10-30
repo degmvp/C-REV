@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697291862 source:n:\c++revisao\xsql01\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<string>
+
