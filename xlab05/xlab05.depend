@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698787471 source:n:\c++revisao\xlab05\main.cpp
+	"Point.h"
+	<iostream>
+
+1698787599 n:\c++revisao\xlab05\point.h
+

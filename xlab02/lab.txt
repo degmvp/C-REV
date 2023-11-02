@@ -1,0 +1,3 @@
+Conteudo de carga no arq.txt 
+usando o operador de insercao 
+Degmar Baqrbosa - Programando C++

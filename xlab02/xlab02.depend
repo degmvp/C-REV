@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698721524 source:n:\c++revisao\xlab02\main.cpp
+	<iostream>
+	<fstream>
+
