@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699619404 source:n:\c++revisao\xweb34\main.cpp
+	<iostream>
+	<memory>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdarg.h>
+	<ctype.h>
+
