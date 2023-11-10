@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699355644 source:n:\c++revisao\xlab22\fila.cpp
+	<iostream>
+	"fila.h"
+
+1699355527 n:\c++revisao\xlab22\fila.h
+
+1699355736 source:n:\c++revisao\xlab22\main.cpp
+	<iostream>
+	"fila.h"
+

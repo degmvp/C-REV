@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699412123 source:n:\c++revisao\xlab36\main.cpp
+	<iostream>
+	<iomanip>
+	<cctype>
+
