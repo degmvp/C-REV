@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699782372 source:n:\c++revisao\xfnc03\main.cpp
+	<iostream>
+	<bitset>
+
