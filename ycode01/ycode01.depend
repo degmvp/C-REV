@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700833527 source:n:\c++revisao\ycode01\main.cpp
+	<iostream>
+	<string>
+
